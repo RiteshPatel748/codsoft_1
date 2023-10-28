@@ -1,6 +1,6 @@
 ## Todo List App
 
-A simple cross-platform (iOS and Android) React Native calculator app.
+A simple cross-platform (iOS and Android) React Native Todo List app.
 
 ### Installation
 

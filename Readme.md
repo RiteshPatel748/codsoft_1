@@ -5,7 +5,7 @@ A simple cross-platform (iOS and Android) React Native calculator app.
 ### Installation
 
 Use code with caution.
-git clone https://github.com/RiteshPatel748/codsoft_2
+git clone https://github.com/RiteshPatel748/codsoft_1
 yarn install / npm install
 
 
